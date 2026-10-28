@@ -1,4 +1,8 @@
-## Hi there 👋
+# Lai Wei
+Student, Dalian University of Technology
+
+Email: 1664671479@mail.dlut.edu.cn
+
 
 <!--
 **Wweilaiiii/Wweilaiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
